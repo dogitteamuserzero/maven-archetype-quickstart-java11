@@ -1,5 +1,7 @@
 # maven-archetype-quickstart-java11
 
+50 new items
+
 This is a Maven quickstart archetype that I use in my pet projects.
 
 As expected, it creates a standard Java 11 Maven enabled project with a quite "complete" pom.xml and directory structure.
